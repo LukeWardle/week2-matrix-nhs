@@ -1,0 +1,20 @@
+# Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual Environment - NEVER commit this
+venv/
+ENV/
+env/
+
+# IDE configuration files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating system files
+.DS_Store
+Thumbs.db
